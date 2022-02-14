@@ -1,0 +1,27 @@
+{
+  "name": "hw-1",
+  "version": "1.0.0",
+  "description": "hw-1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quezzo-dev/node-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quezzo-dev/node-hw-01/issues"
+  },
+  "homepage": "https://github.com/quezzo-dev/node-hw-01#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "shortid": "^2.2.16",
+    "yargs": "^17.3.1"
+  }
+}
